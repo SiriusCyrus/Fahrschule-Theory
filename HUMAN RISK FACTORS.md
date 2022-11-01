@@ -60,6 +60,35 @@
 - Distraction.
 - Inattention.
 
+**What can impair fitness to drive?**
+- Fatigue.
+- Alcohol and other intoxicants.
+- Certain medicines.
+
+**Why can fitness to drive be impaired even by just a small quantity of alcohol?**
+- Because this diminishes spatial vision.
+- ~~Because this reduces the reaction time.~~
+- Because this reduces the field of vision.
+
+**How can your fitness to drive be quickly restored following the excessive consumption of alcohol?**
+- ~~By drinking two cups of coffee.~~
+- ~~By doing 15 minutes of sport.~~
+- Nothing can achieve this.
+
+**What can be the effects of even small quantities of alcohol?**
+- Delayed reactions.
+- Reckless driving.
+- Impairment of hearing and vision.
+
+**In general, how long does it take before an alcohol level of 1.0 per mille (100 mg/100 ml) is cleared from blood stream?**
+- ~~5 hours.~~
+- ~~1 hours.~~
+- 10 hours.
+
+**What can affect ability to drive in a similar way to alcohol?**
+- Medications.
+- ~~Soft drinks.~~
+- Drugs.
 
 
 
