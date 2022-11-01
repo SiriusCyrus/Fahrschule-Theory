@@ -118,8 +118,51 @@
 **What are the possible effects of hashish consumptions?**
 - Intoxication with dangerous hallucination and reduced reaction capability.
 - Intoxication with confusion and depression.
-- ~~Improved judgment of time.~~ 
+- ~~Improved judgment of time.~ 
 
+**Why are consuming drugs even just once, dangerous for driving on public roads?**
+- Because it can result in an intoxication state lasting for several hours.
+- Because it can result in my unfitness to drive.
+- Because it can cause faulty perceptions.
+
+**How can the consumption of cannabis products affect the driver?**
+- It reduces the ability to concentrate on driving.
+- It reduces the awareness to other traffic.
+- ~~It reduces sensitivity to glare.~~
+
+**What are the consequences for a person driving a motor vehicle under the influence of drugs (e.g., hashish, cocaine, heroin)?**
+- Fine and/or imprisonment.
+- Confiscation of driving license or driving ban.
+- Compulsory medical/psychological examination.
+
+**Why is an individual unfit to drive after consuming the drug crystal meth?**
+- Because the possibility of experiencing hallucinations.
+- Because of the possible sudden onset of fatigue.
+- Because it is possible to over-estimate personal capabilities.
+
+**You have just avoided a road traffic accident by performing an emergency brake maneuver. Your hands and knees are shaking. You are still far from your destination. What should you do?**
+- ~~I carefully drive to my destination, so that I can recover my composure.~~
+- I carefully drive to the next stopping place, in order to calm myself down.
+
+**What can drive under pressure of time be dangerous?**
+- Because when driving under pressure of time, the driver frequently goes too fast.
+- ~~Because when driving under pressure of time, a defensive driving style is frequently adopted.~~
+- Because when driving under pressure of time, risks are frequently underestimated.
+
+**Right before you want to drive off, you got annoyed about something and have become very angry. What should you do?**
+- I only drive off, once I have calmed down again.
+- ~~I drive off, in order to distract myself from my anger.~~
+- ~~I try to reach my destination quickly, so that I can calm down there.~~ 
+
+**What emotions can influence driving behaviors?**
+- Worry and sorrow
+- Happiness and exuberance.
+- Anger and rage.
+
+**How can you recognize a good driver?**
+- A good driver refrains from responding to provocations on the road.
+- ~~A good driver always informs other traffic participants of their driving errors.~~
+- ~~A good driver exhibits a calm and relaxed driving style.~~ 
 
 
 
