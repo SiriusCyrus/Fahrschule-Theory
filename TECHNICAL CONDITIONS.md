@@ -120,3 +120,63 @@
 -  ~~Each time the engine oil is changed.~~
 - When you drive a different vehicle.
 
+**What must you remember concerning the lighting equipment of your vehicle?**
+- It must be correctly installed.
+- It must be in operating condition.
+- It must be clean.
+
+**What happens as a result of tire pressures being well below the recommended levels?**
+- Full consumption increases.
+- ~~Pollution emission decreases.~~
+- Tire wear increases.
+
+**What particular characteristics of disk brakes must you remember when driving on a wet road surface?**
+- ~~As a rule, the effect of disc brakes starts earlier than on a dry road surface.~~
+- As a rule, the effect of disc brakes starts later than on a dry road surface.
+
+**What can cause skidding on bends?**
+- Faulty shock absorbers.
+- ~~Load is too small.~~
+- Insufficient or uneven tire pressure.
+
+**How can driver assistance systems be useful?**
+- In assisting the driver.
+- ~~To compensate for unfitness to drive.~~
+- In increasing road safety.
+
+**What is the potential risk when using driver assistance systems?**
+- The vehicle driver may pay too little attention to the traffic around him. 
+- The vehicle driver may neglect his own personal responsibility.
+- The vehicle driver may have false expectations of the systems.
+
+**What must you be aware of when driving a quad?**
+- Quads are prone to tipping over when driving through tight bends.
+- Wearing a suitable crash helmet is mandatory.
+- ~~The handling characteristics are similar to those of a car.~~
+
+**You are approaching a sharp left-hand bend at a high speed. Why is it necessary to reduce your speed before you have actually reached the bend?**
+- Because otherwise my vehicle could slide off to the right along the bend.
+- ~~Because otherwise my vehicle could slide off to the left along the bend.~~
+- Because otherwise my vehicle could begin to skid.
+
+**What increases the effect of centrifugal force on the vehicle when driving round bends?**
+- Small radius of a bend.
+- ~~Higher tire pressure.~~
+- Higher speed.
+
+**You drive round a bend once at 30kmph and again at 60kmph. How does the centrifugal force change?**
+- ~~Centrifugal force at 60kmph is twice as high.~~
+- ~~Centrifugal force at 60kmph is the same.~~
+- Centrifugal force at 60kmph is four times as high.
+
+**You are driving a motor vehicle with a manual gearbox. When driving, what can cause avoidable noise pollution?**
+- Heavily accelerating unnecessarily.
+- Defective silencer.
+- Driving fast in low gears.
+
+**Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil?**
+- ~~Up to 50 liters.~~
+- ~~Up to 1 liter.~~
+- Up to 600 liters.
+
+
