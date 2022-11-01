@@ -294,3 +294,29 @@
 - I should off as promptly as possible.
 - ~~I should, if possible, allow the engine of the stationary vehicle to warm up.~~
 
+**What vehicles are generally exempt from the ban on road traffic in “environmental zones”?**
+- Ambulances on duty.
+- Agricultural and forestry tractors.
+- ~~All motor vehicles belonging to the environmental zone inhabitants.~~
+
+**Why should you avoid driving off at a rapid pace?**
+- Because of heavier tire wear.
+- ~~Because this is a great strain on the rear brake.~~
+- Because the noise you cause annoys others.
+
+**What can help save fuel and reduce pollution?**
+- Using public transport, a bicycle or walking, wherever possible.
+- Contributing a constant flow of traffic by thinking ahead and riving correspondingly.
+- Paying attention to the fuel consumption of a motor vehicle when buying it.
+
+**When is it sensible to switch off a combustion engine?**
+- During lengthy waits at rail crossings.
+- When loading and unloading the vehicle.
+- ~~When stopping at intersections with a stop sign.~~
+
+**You are driving through city traffic in rush hour. What are the effects of stop-and-go driving?**
+- My vehicle consumes more fuel.
+- My vehicle creates more exhaust gases.
+- My vehicle creates more nuisances for others.
+
+
