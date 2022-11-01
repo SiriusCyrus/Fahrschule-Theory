@@ -58,4 +58,65 @@
 - Profile.
 - The age of the tire.
 
+**Which defects of a vehicle can result in a danger for road traffic?**
+- Worn tires.
+- Defective rear lamps.
+- Insufficient braking effect.
+
+**The tail light of your vehicle is not working. What could be the cause of this?**
+- The bulb is defective.
+- The relevant fuse is faulty.
+- ~~The main beam light switch is faulty.~~
+
+**What do you have to check the tires on your vehicles at regular intervals for?**
+- For correct air pressure.
+- For sufficient profile.
+- For external damage.
+
+**Who is responsible for the roadworthiness of a licensed vehicle?**
+- The driver.
+- ~~The motor liability insurance company.~~
+- The owner.
+
+**The glass in your left outside mirror is broken. What do you do?**
+- Renew the mirror glass.
+- ~~Do not renew the mirror glass because you can still partly see the rear.~~
+
+**Why must you ensure the brake fluid is changed regularly in accordance with the vehicle manufacturer’s instructions?**
+- To ensure that the proportion of water in the brake fluid does not exceed the permitted level.
+- To ensure that the braking system remains functional even under a high load.
+- To prevent damage to the components of the braking system.
+
+**What must you do when you are travelling and you notice that your vehicle is no longer roadworthy?**
+- Take the vehicle out of the traffic as quickly as possible.
+- ~~Proceed to the next authorized dealer.~~
+- Continue only when the damage has been repaired.
+
+**Just after driving off, you test the brakes. Why?**
+- ~~To bleed the brake system quickly.~~
+- To check the effectiveness of the brakes.
+
+**How can you minimize tire wear?**
+- I refrain as much as possible from rapid acceleration.
+- I regularly check the tire inflation pressure.
+- ~~I use winter tires all year around.~~
+
+**What must you take into consideration when checking tire pressure?**
+- Load/Number of passengers in the car.
+- ~~Material of the wheels (steel/aluminum).~~
+- Tire temperature.
+
+**The brake lights do not function. What do you do?**
+- Repair them immediately.
+- ~~Renew the brake fluid.~~
+
+**What happens when you drive with a tire pressure which is far too low?**
+- ~~Tire wear decreases.~~
+- Driving stability decreases.
+- Tire heats up excessively.
+
+**In which case is it imperative to test the brakes?**
+- If a vehicle has not been used for a longer period.
+-  ~~Each time the engine oil is changed.~~
+- When you drive a different vehicle.
 
