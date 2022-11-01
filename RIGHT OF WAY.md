@@ -55,3 +55,22 @@
 - You must indicate right to leave the roundabout.
 - ~~You must enter to the left.~~
 
+**[What does this traffic sign mean?](https://routetogermany.github.io/img/example-img/yield%20sign%20at%20roundabout.svg)**
+- You must give way to vehicles in the roundabout.
+- You must indicate when leaving the roundabout.
+- ~~You must indicate when entering the roundabout.~~
+
+**[You are approaching this combination of traffic signs. What must you remember?](https://routetogermany.github.io/img/example-img/yield%20sign%20at%20roundabout.svg)**
+- You must indicate to leave the roundabout.
+- Vehicles in the roundabout have priority.
+- ~~You must indicate when entering the roundabout.~~
+
+**You are on a roundabout. What should you remember?**
+- You must indicate to leave the roundabout.
+- You are not allowed to stop on the roadway in a roundabout.
+- You can only drive over a central island if this is unavoidable because of your vehicle’s size.
+
+**[What does this traffic sign mean?](https://routetogermany.github.io/img/example-img/yield%20sign%20at%20roundabout.svg)**
+- ~~You must indicate when entering the roundabout.~~
+- Stopping on the roundabout is forbidden.
+- ~~You are only allowed to drive at walking speed.~~
