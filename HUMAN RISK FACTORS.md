@@ -17,7 +17,7 @@
 
 **What should you be aware of when driving a car after a day’s work?**
 - I drive with a lower level of concentration.
-- ~~I make fewer driving errors. ~~
+- ~~I make fewer driving errors.~~
 - I will become tired more quickly.
 
 **How does tiredness affect your driving?**
