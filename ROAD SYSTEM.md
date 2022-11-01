@@ -60,4 +60,55 @@
 - The through driving traffic has priority.
 - ~~The through driving traffic on the right-hand lane must allow incoming traffic to merge.~~
 
+**What is the recommended speed that applies to cars and motorcycles on autobahn?**
+- 130kmph.
+
+**On what roads does the recommended speed of 130kmph apply?**
+- On vehicle roadways not inside a built-up area, with at least two marked lanes for each direction.
+- Motorways.
+- On vehicle roadways not inside a built-up area, with separate carriageways for each direction.
+
+**When driving on motorways, why should you maintain the recommended speed of 130kmph?**
+- Because this can prevent accidents occurring.
+- Because this can reduce the severity of possible accidents.
+- Because this achieves an even flow of traffic.
+
+**What can result from driving for a long time at high speed?**
+- You lose your feel for speed.
+- ~~Your reactions improve.~~
+- You drive too close to vehicles in front.
+
+**You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the registration certificate or in the operating license?**
+- More than 60kmph.
+
+**[What does this traffic sign indicate?](https://routetogermany.github.io/img/signs/4.%20Richtzeichen%20nach%20Anlage%203/Zeichen_467.1-20_-_Umlenkungspfeil_(Streckenempfehlung)_rechtsweisend,_StVO_2013.svg)**
+- An autobahn section which is normally not used very much.
+- ~~The place where the autobahn must be exited.~~
+- ~~An obligatory diversion for vehicles with dangerous goods.~~
+
+**A traffic jam has formed on a three-lane autobahn. Where must the channel for emergency vehicles be formed?**
+- Between the left-hand and the middle lanes.
+- ~~On the hard shoulder.~~
+- ~~Between the middle and the right-hand lanes.~~
+
+**How can you tell the shortest way to the next emergency telephone on federal motorways?**
+- By the black arrows on the delineators.
+- ~~By the direction markings on the guard rails.~~
+- ~~By the ground markings on the hard shoulder.~~
+
+**You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?**
+- ~~All the time, provided no other vehicle wants to overtake you.~~
+- As long as is necessary to overtake other vehicles.
+- As long as you are driving behind a vehicle which is overtaking in the left-hand lane.
+
+**What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?**
+- I have to drive as far to the right as possible in the right-hand lane.
+- I have to drive as far to the left as possible in the left-hand lane.
+- ~~I have to drive as far to the left as possible in the right-hand lane~~
+
+**You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?**
+- I cease overtaking maneuvers in good time.
+- I significantly reduce my speed on the exit lane.
+- ~~I significantly reduce my speed while still on the right-hand lane of the motorway.~~
+
 
