@@ -111,4 +111,13 @@
 - I significantly reduce my speed on the exit lane.
 - ~~I significantly reduce my speed while still on the right-hand lane of the motorway.~~
 
+**After a longer journey travelling at about 120kmph, you want to exit the motorway. What must you be aware of when doing so?**
+- I check the speedometer to make sure I don’t underestimate my speed.
+- I signal in good time and then brake while on the exit lane, so as not to impede the traffic behind me.
+- ~~I maintain my speed while on the exit lane, so as not to impede the traffic behind me.~~
+
+**You are driving on the motorway and have missed the exit. What is the right course of action?**
+- ~~I stop on the hard shoulder t plan my subsequent route.~~
+- I continue driving and leave the motorway at one of the next exits.
+- ~~I reverse back on the hard shoulder, because the exit is less than 100m behind me.~~
 
