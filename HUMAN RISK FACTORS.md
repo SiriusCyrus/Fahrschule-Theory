@@ -90,6 +90,35 @@
 - ~~Soft drinks.~~
 - Drugs.
 
+**Which drug can make a person temporarily unfit to drive even when consumed on a single occasion?**
+- Hashish, marijuana.
+- LSD.
+- Heroin, Cocaine, ampthemines.
+
+**What are the possible effects of hashish consumptions?**
+- Diminished awareness of danger.
+- Increased likelihood of mistakes in assimilating information.
+- Misjudgment of speed and distance.
+
+**How is the intoxicating substance in hashish broken down by the body?**
+- Unevenly over an intermediate period.
+- ~~Evenly, 0.1 gram per hour.~~
+- ~~Evenly, 0.1 per mille per hour.~~
+
+**How long does cannabis and its degradation products remain detectable in urine?**
+- ~~Several days at most.~~
+- For some weeks.
+- ~~Only for a few hours.~~
+
+**What effects can drugs have?**
+- Dependence, intoxication.
+- Addiction.
+- ~~Prolonged improvement of physical and mental capabilities.~~
+
+**What are the possible effects of hashish consumptions?**
+- Intoxication with dangerous hallucination and reduced reaction capability.
+- Intoxication with confusion and depression.
+- ~~Improved judgment of time.~~ 
 
 
 
