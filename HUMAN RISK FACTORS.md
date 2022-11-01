@@ -42,7 +42,7 @@
 
 **What should you do if you start feeling tired while driving?**
 - Get out of the car and move around in the fresh air.
-- ~~Listen to stimulating music.~~
+- ~~Listen to stimulating music.~
 - Take a break straightaway. 
 
 **What is the risk if you become distracted while using electronic devices when driving?**
@@ -51,7 +51,7 @@
 - ~~My stopping distance may be reduced.~~
 
 **How can fatigue be prevented on a long journey?**
-- ~~Drink coffee and make no stops.~
+- ~~Drink coffee and make no stops.~~
 - By well-timed and sufficient stops for rests.
 - Gymnastic exercises during stops.
 
