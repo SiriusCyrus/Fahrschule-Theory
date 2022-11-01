@@ -17,7 +17,7 @@
 
 **What should you be aware of when driving a car after a day’s work?**
 - I drive with a lower level of concentration.
-- ~I make fewer driving errors. ~~
+- ~~I make fewer driving errors. ~~
 - I will become tired more quickly.
 
 **How does tiredness affect your driving?**
@@ -32,5 +32,5 @@
 
 **You want to make a telephone call while driving a vehicle. What must you be aware of?**
 - I may be distracted by the call.
-- Telephoning using a hands-free unit does not distract me.
+- ~~Telephoning using a hands-free unit does not distract me.~~
 - I may be distracted through operating the telephone.
