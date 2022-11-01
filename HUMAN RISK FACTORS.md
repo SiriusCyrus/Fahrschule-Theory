@@ -42,7 +42,7 @@
 
 **What should you do if you start feeling tired while driving?**
 - Get out of the car and move around in the fresh air.
-- ~~Listen to stimulating music.~
+- ~~Listen to stimulating music.~~
 - Take a break straightaway. 
 
 **What is the risk if you become distracted while using electronic devices when driving?**
