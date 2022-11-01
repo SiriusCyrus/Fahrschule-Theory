@@ -179,4 +179,63 @@
 - ~~Up to 1 liter.~~
 - Up to 600 liters.
 
+**What can regular vehicle maintenance help to achieve?**
+- Keeping emission levels low.
+- Ensuring road safety.
+- Keeping fuel consumption low.
+
+**How is avoidable noise caused?**
+- ~~By sounding your horn when in danger.~~
+- By driving with a defective exhaust.
+- By playing with the accelerator when standing still.
+
+**How do you drive with consideration to the environment?**
+- Avoid unnecessary acceleration and unnecessary braking.
+- Decelerate in good time and use the momentum of the car when the next traffic light is on red.
+- ~~Always accelerate to the maximum when the traffic light changes to green.~~
+
+**The noise of the exhaust has suddenly become louder than the usual. What do you do?**
+- Check the exhaust system.
+- ~~Renew the engine air filter.~~
+- ~~Nothing because nobody is endangered.~~
+
+**What can you do to help protect the environment?**
+- I should avoid driving at flat-out speed.
+- I should avoid driving short distances.
+- I should avoid driving in crowded city centers.
+
+**When should you switch off the engine to save fuel and reduce pollution?**	
+- ~~When you stop at a STOP sign.~~
+- When you have to wait at level crossings or building sites.
+- When you to wait in a traffic jam for a long time.
+
+**Why are you required to have a defective exhaust system repaired immediately?**
+- Because of the noise pollution.
+- ~~Because the engine would overheat.~~
+- Because parts of the exhaust system can drop on the roadway.
+
+**How can you save fuel?**
+- ~~By driving with winter tires the whole year around.~~
+- By driving in a foresighted manner.
+- By removing any non-essential roof boxes etc.
+
+**You are driving a motor vehicle with a manual gearbox. What type of behavior pollutes the environment?**
+- Frequently pressing the accelerator while waiting at traffic lights.
+- ~~Driving downhill in a high gear.~~
+- An uneven driving style.
+
+**Where can used oil, lubricants and car batteries be taken to be disposed of properly?**
+- To recycling centers.
+- ~~In the household waste.~~
+- To car workshops.
+
+**You are driving a motor vehicle with a manual gearbox. How can you achieve efficient fuel consumption?**
+- ~~When accelerating, changing the gears upwards as late as possible.~~
+- By adopting an even driving style with low engine speeds.
+- By having a proper tire inflation pressure.
+
+**What must you remember when refueling?**
+- Do not refuel when the tank is full and nozzle has switched off.
+- Do not breath in any fuel fumes.
+- ~~Fill up to the brim if possible.~~
 
