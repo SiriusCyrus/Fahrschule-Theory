@@ -34,3 +34,50 @@
 - I may be distracted by the call.
 - ~~Telephoning using a hands-free unit does not distract me.~~
 - I may be distracted through operating the telephone.
+
+**What can happen if you ignore signs of tiredness?**
+- Driving mistakes.
+- Lack of concentration.
+- Microsleep.
+
+**What should you do if you start feeling tired while driving?**
+- Get out of the car and move around in the fresh air.
+- ~~Listen to stimulating music.~ 
+- Take a break straightaway. 
+
+**What is the risk if you become distracted while using electronic devices when driving?**
+- I may deviate from my lane.
+- I may fail to notice road traffic signs.
+- ~~My stopping distance may be reduced.~~
+
+**How can fatigue be prevented on a long journey?**
+- ~~Drink coffee and make no stops.~~
+- By well-timed and sufficient stops for rests.
+- Gymnastic exercises during stops.
+
+**What could cause the vehicle to leave the road?**
+- Tiredness.
+- Distraction.
+- Inattention.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
