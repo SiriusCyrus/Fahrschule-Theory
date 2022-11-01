@@ -14,3 +14,23 @@
 - I allow a co-driver to drive, if possible.
 - ~~I decide against taking a break, and fight the tiredness.~~
 - I interrupt the journey to take an adequate break. 
+
+**What should you be aware of when driving a car after a day’s work?**
+- I drive with a lower level of concentration.
+- ~I make fewer driving errors. ~~
+- I will become tired more quickly.
+
+**How does tiredness affect your driving?**
+- Delays reactions.
+- Decreases alertness.
+- Limits awareness.
+
+**You want to make a telephone call while driving. What must you be aware of?**
+- I need to have a hands-free unit.
+- ~~I may use the telephone without a hands-free, if the vehicle is moving at walking pace.~~
+- I may use the telephone without a hands-free unit, if the vehicle is parked in a suitable place, and the engine is switched off. 
+
+**You want to make a telephone call while driving a vehicle. What must you be aware of?**
+- I may be distracted by the call.
+- Telephoning using a hands-free unit does not distract me.
+- I may be distracted through operating the telephone.
