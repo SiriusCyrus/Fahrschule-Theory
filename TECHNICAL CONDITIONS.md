@@ -318,5 +318,3 @@
 - My vehicle consumes more fuel.
 - My vehicle creates more exhaust gases.
 - My vehicle creates more nuisances for others.
-
-
