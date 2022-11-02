@@ -165,3 +165,144 @@
 - ~~All cars driving in the same direction must follow the police car.~~
 - ~~Only heavy goods transports must follow the police car.~~
 
+**You are overtaken by a police vehicle, which pulls in immediately in front of you. The words “BITTE FOLGEN” (PLEASE FOLLOW) appear illuminated in red on the roof. To whom does this apply?**
+- ~~To all vehicles in my lane.~~
+- To me.
+- ~~For police and rescue vehicles following behind.~~
+
+**What does it mean when the flashing blue light of a vehicle is switched on but not the siren?**
+- Warning of Fire Brigade in action.
+- Warning of an accident or other dangers.
+- ~~A breakdown vehicle is on duty and on its way to its destination.~~
+
+**What kind of flashing blue light (without siren) mean?**
+- The vehicle is on duty. You should give way.
+- ~~Without a siren, flashing blue light does not mean anything.~~
+- Advance warning of a closed convoy.
+
+**Police signaling disc is displayed towards you from a vehicle driving in front of you. What does it mean?**
+- I have to follow the vehicle until it stops.
+- I may not overtake the vehicle.
+- ~~I have to turn in the direction indicated.~~
+
+**You are overtaken by a police vehicle, which pulls in immediately in front of you. The words “BITTE FOLGEN” (PLEASE FOLLOW) appear illuminated in red on the roof. What should you do?**
+- I have to follow the police vehicle.
+- I have to stop if police vehicle stops.
+- ~~I have to allow the engine to continue running once I have stopped.~~
+
+**How can you get help on an autobahn?**
+- Use an emergency call box.
+- Dial 112 or 110.
+- From the autobahn service areas.
+
+**You are involved in a traffic accident. What are you obliged to do?**
+- I have to provide my name and address upon demand to those entitled to this information.
+- I have to inform the other persons involved that I was also involved in the accident.
+- I have to move promptly to the side of the roadway if damage is minor.
+
+**A vehicle driver has slightly damaged another vehicle, and unlawfully leaves the scene. What consequence could this have?**
+- A withdrawal of the driving license or a driving ban.
+- An order to undergo a medical/psychological examination.
+- A fine or imprisonment.
+
+**Several deer run across the road in front of your vehicle. What must you reckon with?**
+- There could be stragglers following the herd.
+- ~~There is no reason to expect any more animals.~~
+- The herd may come back and cross the road again.
+
+**You are involved in an accident in a carpark. The vehicle damage is minor. Everyone involved agrees that the police do not need to be informed. What would be helpful now for the claims process?**
+- Describing the cause of the accident in the accident report.
+- Exchanging the necessary details with those involved.
+- Photographing the scene of the accident from a number of angles.
+
+**How could a dangerous situation arise?**
+- ~~By having lights turned on during the day.~~
+- Through vehicles at a standstill.
+- Through failure to maintain suitable speed.
+
+**You are driving on a new road through a woodland area. What must you reckon with?**
+- ~~There is no reason to expect accidents involving game animals on new roads.~~
+- Game animals unexpectedly crossing the roadway.
+- An obstruction caused by an accident involving a game animal.
+
+**What are you obliged to do, if you are involved in a road traffic accident?**
+- I have to provide aid if anyone has been injured.
+- I have to stop and determine the consequence of the accident.
+- I have to secure the scene of the accident.
+
+**You are involved in an accident. What document must to present to the other person involved in the accident, if requested?**
+- The registration certificate Part I or the operating permit.
+- ~~The liability insurance contract.~~
+- My driving license.
+
+**You have an accident on a rural road. How do you secure the scene of the accident site?**
+- I turn on my hazard lights immediately.
+- If necessary, I want other vehicles, by using hand signs for example.
+- I set up the warning triangle in a well visible position about 100m from the scene of the accident.
+
+**At which time of the day do you have to record with an increased game pass?**
+- At dawn.
+- At dusk.
+- ~~At noon.~~
+
+**Under what emergency numbers can you call the police and the emergency services in Germany?**
+- ~~115~~
+- 110
+- 112
+
+**You are the first to arrive at the scene of an act of an accident where there are injured people. You secure the scene of the accident and have gained an overview of the situation. What else do you have to do?**
+- I have to notify the emergency services.
+- I have to deliver fast aid to the injured.
+- ~~I have to document the accident.~~
+
+**You have damaged are parked vehicle. Though you have waited for a reasonable length of time, there is no sign of the other driver. What must you do?**
+- ~~You may leave the scene of the accident without taking further action.~~
+- Leave your name and address on the damaged vehicle and immediately report the accident to the police.
+- ~~It is sufficient to give your name and address to a witness who was not involved.~~
+
+**You are the first person to arrive at the scene of an accident with injured persons. What should you do first as a rule?**
+- ~~Check the seriousness of the injuries.~~
+- ~~Drive to the next telephone box and call the rescue service.~~
+- Make the scene of the accident safe.
+
+**What must you do if game animal suddenly appears in the full name of your headlights?**
+- Immediately dip your headlights.
+- Sound the horn on brake.
+- ~~Proceed on full beam.~~
+
+**For which purpose is a horn allowed to be used outside built-up areas?**
+- As a warning signal.
+- ~~As a calling signal.~~
+- As an overtaking signal.
+
+**What should you do if you see a vehicle with this hazard light on?**
+- ~~I continue driving just as before.~~
+- I ready it myself for hazards occurring suddenly.
+- I reduce my speed.
+
+**If the horn does not work, what can be the reason?**
+- ~~Defective starter.~~
+- Blown fuse.
+- The horn’s operating device is defective.
+
+**Where is it permitted to flush headlights to indicate your intention to overtake?**
+- In daylight outside built-up areas.
+- In darkness outside built-up areas.
+- ~~In darkness in built-up areas.~~
+
+**For which purposes is a horn allowed to be used in built-up areas?**
+- ~~As an overtaking signal.~~
+- As a warning signal.
+- ~~As a calling signal.~~
+
+**What do hazard warning lights draw your attention to?**
+- To school buses with children boarding or alighting.
+- To vehicles which have broken down.
+- To a traffic congestion.
+
+**What can prevent you from hearing warning signals?**
+- The exhaust being too loud.
+- Having the radio on too loud.
+- Using headphones.
+
+
