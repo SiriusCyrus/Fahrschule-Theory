@@ -110,5 +110,58 @@
 - Reflections of light from oncoming traffic.
 - ~~Good road markings.~~
 
+**What do you do in a tunnel with oncoming traffic?**
+- ~~Drive over the lane boundary markings when overtaking.~~
+- Do not make a U-turn.
+- Do not drive over the lane boundary markings.
 
+**What do you do in case of a breakdown in a tunnel?**
+- If possible, park the vehicle in an emergency bay.
+- ~~Let the engine run by way of precaution.~~
+- Switch on the hazard warning lights.
+
+**You notice an accident in the tunnel. What do you have to do?**
+- ~~Do not leave your vehicle.~~
+- Inform emergency services via the SOS-telephone.
+- Switch on the hazard warning lights.
+
+**You are driving through a tunnel. What special aspect applies here?**
+- In tunnels, I can be distracted by loud vehicle noise.
+- In tunnels, I can be distracted by lighting effects.
+- In tunnels the safety devices, like emergency exits and emergency telephones are signposted.
+
+**What must you do in case of a traffic jam in a tunnel?**
+- Switch hazard warning lights on.
+- ~~Secure and leave vehicle immediately.~~
+- When traffic comes to a standstill, keep a safety distance of approximately 5m to the car ahead.
+
+**In your rear-view mirror, you see the words “STOP POLIZEI” (Stop Police) in red illuminated letters on the roof of a police car immediately behind your car. Who does this apply to?**
+- To you only.
+- ~~To all following vehicles.~~
+- ~~To all vehicles on the road.~~
+
+**You hear a siren. Which questions must you ask yourself?**
+- Could I obstruct the emergency vehicle?
+- ~~Is this vehicle allowed to use a siren at all?~~
+-  Where is the emergency vehicle coming from?
+
+**Under what circumstance may you cross a junction during a red light?**
+- If there is a police officer on the junction directing traffic.
+- ~~Under no circumstance.~~
+- To carefully afford space to an emergency vehicle with a blue flashing light and siren sounding.
+
+**What can a flashing amber light on a vehicle be a warning for?**
+- For a large transport proceeding at low speed.
+- For dangers at roadworks or the scene of an accident.
+- For an exceptionally wide vehicle.
+
+**A vehicle with flashing blue light and siren is approaching. What do you do?**
+- Clear the way for the vehicle.
+- ~~At all events, brake hard and stop.~~
+- Drive carefully on to the pavement if necessary.
+
+**The words “BITTE FOLGEN” (PLEASE FOLLOW) are illuminated on a police car immediately preceding your car. What does this mean?**
+- Only you must follow the police car.
+- ~~All cars driving in the same direction must follow the police car.~~
+- ~~Only heavy goods transports must follow the police car.~~
 
